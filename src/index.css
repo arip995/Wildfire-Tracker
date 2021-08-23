@@ -22,7 +22,7 @@ body{
 }
 .location-info{
     position: absolute;
-    top: 50px;
+    top: 80px;
     right: 50px;
     width: 400px;
     min-height: 200px;
