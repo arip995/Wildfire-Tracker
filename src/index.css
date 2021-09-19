@@ -56,3 +56,7 @@ body{
     margin: 0;
     text-align: center;
 }
+.cross{
+    display: flex;
+    justify-content: flex-end;
+}
