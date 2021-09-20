@@ -1,13 +1,13 @@
 import React from 'react';
-import { Icon } from '@iconify/react';
-import crossIcon from '@iconify/icons-gridicons/cross';
+// import { Icon } from '@iconify/react';
+// import crossIcon from '@iconify/icons-gridicons/cross';
 
 const LocationInfoBox = ({info}) => {
     return (
         <div className="location-info">
-            <div className="cross">
+            {/* <div className="cross">
             <Icon icon={crossIcon} />
-            </div>
+            </div> */}
             <h2>Event Location Info</h2>
             <ul>
                 <li>ID:<strong>{info.id}</strong></li>
